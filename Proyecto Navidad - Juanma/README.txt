@@ -8,4 +8,4 @@ Me he basado en el ejercicio de la tienda del año pasado ya que no tengo
 mucha idea aún de PHP para hacerlo todo desde 0.
 
 El trabajo lo he realizado en solitario ya que no me he comunicado apenas
-los compañeros de clase estas navidades para formar los grupos.
+con los compañeros de clase estas navidades para formar los grupos.
